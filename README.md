@@ -21,5 +21,7 @@ Smart Code Copier是一个好用的源码拷贝工具，提供功能：
 expand -t 4 compute_flops_tf_pb.py > compute_flops_tf_pb_new.py
 ```
 
+如果觉得本工具功能简陋，可以使用clang-format替代。e.g. 编写`.clang-format`文件，然后在你的 IDE/编辑器 中配置clang-format。
+
 ## 协议
 MIT
